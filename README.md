@@ -50,7 +50,5 @@ Details of this project is following in the end of this README.
 ![pic1](./img/project_spec/spec1.png)
 ![pic2](./img/project_spec/spec2.png)
 ![pic3](./img/project_spec/spec3.png)
-![pic4](./img/project_spec/spec4.png)
-![pic5](./img/project_spec/spec5.png)
 ![pic6](./img/project_spec/spec6.png)
 
